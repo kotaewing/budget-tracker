@@ -1,5 +1,5 @@
-
 # Budget Tracker
+<img width="1247" alt="Screen Shot 2021-08-18 at 10 24 58 AM" src="https://user-images.githubusercontent.com/79291655/129935937-94ed4228-6cde-493d-b081-c1ef24b9efa0.png">
 
 
 ## Table of Contents
